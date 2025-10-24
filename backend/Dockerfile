@@ -1,4 +1,4 @@
-# Stage !: this is to build the app
+#. Stage !: this is to build the app
 
 FROM maven:3.8.6-openjdk-11 as build 
 
